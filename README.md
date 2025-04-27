@@ -2,6 +2,8 @@
 
 # 🍔 Burger Website
 
+Live Website :-> https://atomicbuns.netlify.app
+
 A responsive website for food (burgers, dishes, recipes) with smooth scroll animations using **ScrollReveal.js**.
 
 ## 📂 Project Structure
