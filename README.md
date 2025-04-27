@@ -1,5 +1,8 @@
 # burger-website
 
+![preview](https://github.com/user-attachments/assets/2d31e92d-758c-4c2e-b947-247d02612541)
+
+
 # 🍔 Burger Website
 
 Live Website :-> https://atomicbuns.netlify.app
